@@ -12,6 +12,20 @@ Me chamo Janderson Cruz Silva, tenho 24 anos e sou natural de Minas Gerais. Atua
             src="https://custom-icon-badges.demolab.com/github/stars/jandersoncs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+    <a href="https://www.instagram.com/jandersoncruz15/">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jandersoncs?color=55960c&style=for-the-badge&labelColor=488207&logo=Inst&label=instagram"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/jandersoncs09/">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jandersoncs?color=55960c&style=for-the-badge&labelColor=488207&logo=I&label=Linkedin"
+        />
+    </a>
     <a href="https://github.com/jandersoncs?tab=followers">
         <img 
             alt="Seguidores" 
@@ -112,14 +126,6 @@ title="mongoDB"
 width="50px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-/>
-<img
-align="left"
-alt="Docker"
-title="Docker"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 <br/>
