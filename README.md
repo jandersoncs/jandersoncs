@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Janderson Cruz Silva, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CESUMAR.
+Me chamo Janderson Cruz Silva, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CESUMAR.
 
 <p align="left"> 
     <a href="https://github.com/jandersoncs?tab=repositories&q=&type=&language=&sort=stargazers">
@@ -21,8 +21,8 @@ Me chamo Janderson Cruz Silva, tenho 24 anos e sou natural de Minas Gerais. Atua
     </a>
     <a href="https://www.linkedin.com/in/jandersoncs09/">
         <img 
-            alt="Instagram" 
-            title="Instagram" 
+            alt="Linkedin" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/github/stars/jandersoncs?color=55960c&style=for-the-badge&labelColor=488207&logo=I&label=Linkedin"
         />
     </a>
